@@ -11,7 +11,7 @@ In the left-hand navigation pane, click on Roles
 
 Click the Create role button
 
-Choose one of the five types of trusted entity that will use this role: AWS Service
+Then you can choose one of the five types of trusted entity that will use this role: AWS Service
 
 <img width="1920" height="738" alt="image" src="https://github.com/user-attachments/assets/d3890382-b1d8-4635-9fd0-ff905be96ffe" />
 
