@@ -15,7 +15,7 @@ Then you can choose one of the five types of trusted entity that will use this r
 
 <img width="1920" height="738" alt="image" src="https://github.com/user-attachments/assets/d3890382-b1d8-4635-9fd0-ff905be96ffe" />
 
-In the Use case section, select the specific service (for example, EC2), then click Next
+In the Use case section, select the specific service (for this example, EC2), then click Next
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9047b82-049a-4752-8bfb-7f91483d6339" />
 
@@ -23,3 +23,9 @@ Search and select the appropriate permission policy for the role. For this setup
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ac0caf3-5608-4c22-9e30-9eaab24189d9" />
 
+On the following page, you then provide a unique Role name and optional description. Review your trust policy and selected permissions. Upon finishing you review you can then click Create role
+
+<img width="936" height="819" alt="image" src="https://github.com/user-attachments/assets/4bdcd65a-67d3-4e55-b7bc-23faf10e479a" />
+
+
+<img width="545" height="592" alt="image" src="https://github.com/user-attachments/assets/45f4dcea-d7dc-4919-8d78-d37973eff72e" />
