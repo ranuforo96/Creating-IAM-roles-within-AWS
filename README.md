@@ -19,3 +19,7 @@ In the Use case section, select the specific service (for example, EC2), then cl
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9047b82-049a-4752-8bfb-7f91483d6339" />
 
+Search and select the appropriate permission policy for the role. For this setup, select IAMReadOnlyAccess to grant the EC2 instance read-only access to IAM resources, then proceed by clicking Next
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ac0caf3-5608-4c22-9e30-9eaab24189d9" />
+
