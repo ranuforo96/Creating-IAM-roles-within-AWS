@@ -31,11 +31,11 @@ JSON policy allows the Amazon EC2 service (ec2.amazonaws.com) to assume (take on
 
 <img width="545" height="592" alt="image" src="https://github.com/user-attachments/assets/45f4dcea-d7dc-4919-8d78-d37973eff72e" />
 
-Quick review of the permission policy summary verifies the role has IAMReadOnlyAccess as i selected 
+Quick review of the permission policy summary verifies the role has IAMReadOnlyAccess as I selected
 
 <img width="538" height="616" alt="image" src="https://github.com/user-attachments/assets/c61b25d4-e7f4-4cc2-b5cc-3ab88341bcce" />
 
-The role has been successfully created and now appears in your list of roles. You can also click on the role and verify the IAMReadOnlyAccess
+The role has been successfully created and now appears in your list of roles. You can also click on the role and verify the IAMReadOnlyAccess permission
 
 <img width="1909" height="740" alt="image" src="https://github.com/user-attachments/assets/2cbbfaf2-7e42-4d1a-80d6-a1d91b030a65" />
 
