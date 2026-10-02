@@ -27,5 +27,11 @@ On the following page, you then provide a unique Role name and optional descript
 
 <img width="936" height="819" alt="image" src="https://github.com/user-attachments/assets/4bdcd65a-67d3-4e55-b7bc-23faf10e479a" />
 
+JSON policy allows the Amazon EC2 service (ec2.amazonaws.com) to assume (take on) this IAM role and temporarily use its permissions
 
 <img width="545" height="592" alt="image" src="https://github.com/user-attachments/assets/45f4dcea-d7dc-4919-8d78-d37973eff72e" />
+
+Quick review of the permission policy summary verifies the role has IAMReadOnlyAccess as i selected 
+
+<img width="538" height="616" alt="image" src="https://github.com/user-attachments/assets/c61b25d4-e7f4-4cc2-b5cc-3ab88341bcce" />
+
