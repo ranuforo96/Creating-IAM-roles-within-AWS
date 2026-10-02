@@ -35,6 +35,8 @@ Quick review of the permission policy summary verifies the role has IAMReadOnlyA
 
 <img width="538" height="616" alt="image" src="https://github.com/user-attachments/assets/c61b25d4-e7f4-4cc2-b5cc-3ab88341bcce" />
 
-The role has successfully been created
+The role has been successfully created and now appears in your list of roles. You can also click on the role and verify the IAMReadOnlyAccess
 
-<img width="941" height="569" alt="image" src="https://github.com/user-attachments/assets/41ad4561-0350-4098-a6f4-70a47af3deb5" />
+<img width="1909" height="740" alt="image" src="https://github.com/user-attachments/assets/2cbbfaf2-7e42-4d1a-80d6-a1d91b030a65" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d5d0237-b154-4793-bf8e-ea6c7cf0ce40" />
