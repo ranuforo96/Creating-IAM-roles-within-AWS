@@ -34,3 +34,7 @@ JSON policy allows the Amazon EC2 service (ec2.amazonaws.com) to assume (take on
 Quick review of the permission policy summary verifies the role has IAMReadOnlyAccess as i selected 
 
 <img width="538" height="616" alt="image" src="https://github.com/user-attachments/assets/c61b25d4-e7f4-4cc2-b5cc-3ab88341bcce" />
+
+The role has successfully been created
+
+<img width="941" height="569" alt="image" src="https://github.com/user-attachments/assets/41ad4561-0350-4098-a6f4-70a47af3deb5" />
